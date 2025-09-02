@@ -7,4 +7,4 @@
 Скопируйте и вставьте в executor:
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/nigmetullinnurlan7-pixel/Aryslan-hub/main/my.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nigmetullinnurlan7-pixel/Aryslan-hub/main/My.lua"))()
